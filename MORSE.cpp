@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    // Morse code map for A-Z and space
+    // Morse code map for A-Z and space charrecter
     map<char, string> morseCode = {
         {'A', ".-"}, {'B', "-..."}, {'C', "-.-."},
         {'D', "-.."}, {'E', "."}, {'F', "..-."},
